@@ -1,0 +1,1 @@
+# strict-concurrency-checking-swift-6
